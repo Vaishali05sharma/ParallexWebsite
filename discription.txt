@@ -1,0 +1,9 @@
+parallax effect 
+here in the hero section of the web page we can witness parallex effect in which the text is moving faster than the foreground and background image 
+background image moving little slowly 
+foreground comparatively faster than background 
+important is to ON the perspective to have 3d view 
+then using z index to overlap 
+transform style preserve 3d imp property to see the effect in 3d 
+translating in different direction with different scale 
+ to fix the background wrt to other elements we use background attachment property 
